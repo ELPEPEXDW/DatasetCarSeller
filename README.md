@@ -35,7 +35,6 @@ De las 18 columnas disponibles en el archivo original, se proyectaron y limpiaro
 3. `Prod. year`: Año de fabricación para análisis de antigüedad y depreciación.
 4. `Price`: Precio comercial de venta (variable financiera objetivo).
 5. `Mileage`: Kilometraje recorrido (transformado de texto a valor numérico continuo en Spark).
-6. `Fuel type`: Tipo de combustible (Gasolina, Diésel, Híbrido, Eléctrico, etc.).
 7. `Category`: Tipo o segmento de carrocería (Sedán, SUV/Jeep, Hatchback, etc.).
 
 ### ¿Por qué lo elegimos?
